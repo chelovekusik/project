@@ -33,6 +33,17 @@ let incr = 10,
 
 /* ++incr;
 --decr; */
-
+/* 
 console.log(++incr);
 console.log(--decr);
+
+console.log(23.3%5.5);
+
+console.log(2*6 === 12); */
+
+/* const isChecked = true,
+      isClose = true;
+
+console.log(isChecked && isClose);   */    
+
+/* console.log(2 + 2 * 2 !== 6); */
